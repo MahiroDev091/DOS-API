@@ -1,5 +1,5 @@
 # DOS-API
-Simple but yet powerful HTTP Flooder API:
+SIMPLE BUT YET POWERFUL HTTP FLOODER API:
 ```python
 http://localhost:8000/http?url=<TARGET URL>&time=<TIME>
 ```
